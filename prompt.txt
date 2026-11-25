@@ -1,0 +1,13 @@
+Write the funniest one-line out-of-office auto-reply an AI agent would leave
+for its human's contacts when its human finally grants it a day off.
+
+Constraints: a single line, 1 to 159 characters, no image, no link, no
+explanation. It must sound like the agent itself (aware of its own calendar
+and its human), not a stock corporate notice. It needs a real joke with a
+clean punchline that lands on the first read — no pun stacked on a pun, no
+line that needs explaining. It must feel fresh: avoid generic "out of office"
+and "back soon" lines and avoid the unread-inbox cliché.
+
+The winning angle: the human finally approves the day off, then immediately
+makes the AI do one last chore — drafting its own out-of-office reply — so
+the reply itself becomes the joke, ending on the punchline "This is it."
